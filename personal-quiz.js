@@ -18,7 +18,7 @@ var question_list = [{
 },
 {
 	question:"What do you suggest i do?",
-	answer:"do as tanay says you do"
+	answer:"do as tanay says you do "
 }];
 
 
